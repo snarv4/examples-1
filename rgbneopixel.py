@@ -1,3 +1,4 @@
+#funciones
 import machine
 import time
 import neopixel

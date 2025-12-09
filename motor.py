@@ -3,7 +3,7 @@ import time
 from libmotor import carro_adelante, carro_atras, carro_derecha, carro_izquierda, carro_parar
 
 
-#llamar a la funcion carro_adelante
+#llama a la funcion carro_adelante
 carro_adelante()
 time.sleep(2)
 carro_parar()
